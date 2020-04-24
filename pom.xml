@@ -17,5 +17,13 @@
         <module>boss-eship-tenant-basicability-center/boss-eship-tenant-dao</module>
     </modules>
 
+    <properties>
+        <!--mysql-->
+        <mysql.version>8.0.19</mysql.version>
+        <!--springcloud-->
+        <spring-cloud.version>Hoxton.SR3</spring-cloud.version>
+    </properties>
+
+
 
 </project>

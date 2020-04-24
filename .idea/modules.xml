@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boss-eship-tenant-basicability-center/boss-eship-tenant-api/boss-eship-tenant-api.iml" filepath="$PROJECT_DIR$/boss-eship-tenant-basicability-center/boss-eship-tenant-api/boss-eship-tenant-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boss-eship-tenant-basicability-center/boss-eship-tenant-controller/boss-eship-tenant-controller.iml" filepath="$PROJECT_DIR$/boss-eship-tenant-basicability-center/boss-eship-tenant-controller/boss-eship-tenant-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boss-eship-tenant-basicability-center/boss-eship-tenant-dao/boss-eship-tenant-dao.iml" filepath="$PROJECT_DIR$/boss-eship-tenant-basicability-center/boss-eship-tenant-dao/boss-eship-tenant-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boss-eship-tenant-basicability-center/boss-eship-tenant-pojo/boss-eship-tenant-pojo.iml" filepath="$PROJECT_DIR$/boss-eship-tenant-basicability-center/boss-eship-tenant-pojo/boss-eship-tenant-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boss-eship-tenant-basicability-center/boss-eship-tenant-service/boss-eship-tenant-service.iml" filepath="$PROJECT_DIR$/boss-eship-tenant-basicability-center/boss-eship-tenant-service/boss-eship-tenant-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boss-eship-tenant-basicability-center/boss-eship-tenant-utils/boss-eship-tenant-utils.iml" filepath="$PROJECT_DIR$/boss-eship-tenant-basicability-center/boss-eship-tenant-utils/boss-eship-tenant-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/boss-teant-platform.iml" filepath="$PROJECT_DIR$/.idea/boss-teant-platform.iml" />
+    </modules>
+  </component>
+</project>

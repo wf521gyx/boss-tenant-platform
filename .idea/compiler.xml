@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="boss-eship-tenant-utils" />
+        <module name="boss-eship-tenant-dao" />
+        <module name="boss-eship-tenant-api" />
+        <module name="boss-eship-tenant-pojo" />
+        <module name="boss-eship-tenant-controller" />
+        <module name="boss-eship-tenant-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="boss-eship-tenant-api" target="1.5" />
+      <module name="boss-eship-tenant-controller" target="1.5" />
+      <module name="boss-eship-tenant-dao" target="1.5" />
+      <module name="boss-eship-tenant-pojo" target="1.5" />
+      <module name="boss-eship-tenant-service" target="1.5" />
+      <module name="boss-eship-tenant-utils" target="1.5" />
+      <module name="boss-teant-platform" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
