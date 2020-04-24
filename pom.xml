@@ -22,6 +22,14 @@
         <mysql.version>8.0.19</mysql.version>
         <!--springcloud-->
         <spring-cloud.version>Hoxton.SR3</spring-cloud.version>
+        <!--lombok-->
+        <lombok.version>1.18.12</lombok.version>
+        <!--SL4j-->
+        <sl4j.version>1.7.25</sl4j.version>
+        <!--PageHelper-->
+        <pagehelper.version>1.2.10</pagehelper.version>
+        <!--spring-boot-->
+        <spring-boot.version>2.2.6</spring-boot.version>
     </properties>
 
 
